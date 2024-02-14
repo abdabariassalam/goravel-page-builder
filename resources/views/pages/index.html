@@ -1,0 +1,61 @@
+<html lang="en">
+
+    <head>
+        <title>Goravel Page Builder</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    </head>
+
+    <body class="bg-ligt">
+
+        <div class="container mt-5">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                    <h2 class="text-dark">Page Builder - Drag & Drop</h2>
+                    <p class="text-secondary">Simplify Website Creation - Drag, Drop, Done!</p>
+                </div>
+
+                <a href="pages/create" class="btn btn-success">+ Add</a> 
+            </div>
+            
+            <div id="data-page" class="row">
+                {{range $i, $e := .pages}}
+                    <div id="page-{{$i}}" class="col-xl-4 col-lg-4 col-md-2 col-sm-12">
+                        <div class="card mt-3 mb-3">
+                            <div class="card-header bg-primary text-dark">
+                                {{.Title}}
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text">{{.ShortDescription}}</p>
+                                <i>Last Updated: {{.UpdatedAt}}</i>
+                            </div>
+                            <div class="card-footer bg-ligt">
+                                <a href="pages/{{.ID}}" class="btn btn-primary">
+                                    <i class="far fa-eye"></i>
+                                    Preview
+                                </a>
+                                <a href="pages/{{.ID}}/edit" class="btn btn-warning">
+                                    <i class="fas fa-edit"></i>
+                                    Edit
+                                </a>
+                                <button type="submit" data-url="pages/{{.ID}}" class="btn btn-danger deleteButton">
+                                    <i class="fas fa-trash"></i>
+                                    Delete
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                {{end}}
+            </div>
+        </div>
+        <div class="container text-center mb-4">
+            Terinspirasi dari<a href="https://dewakoding.com" class="text-secondary"> dewakoding.com</a>
+        </div>
+        <script src="/assets/page_index_script.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
+    </body>
+</html>

@@ -1,0 +1,2726 @@
+{
+    "assets": [],
+    "pages": [
+      {
+        "frames": [
+          {
+            "component": {
+              "attributes": {
+                "id": "iq2q"
+              },
+              "components": [
+                {
+                  "components": [
+                    {
+                      "content": "Contoh Internal CSS",
+                      "type": "textnode"
+                    }
+                  ],
+                  "tagName": "title",
+                  "type": "text"
+                },
+                {
+                  "classes": [
+                    "header-banner"
+                  ],
+                  "components": [
+                    {
+                      "classes": [
+                        "container-width"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "logo-container"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "logo"
+                              ],
+                              "components": [
+                                {
+                                  "content": "GrapesJS\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "classes": [
+                            "menu"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "menu-item"
+                              ],
+                              "components": [
+                                {
+                                  "content": "BUILDER\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            },
+                            {
+                              "classes": [
+                                "menu-item"
+                              ],
+                              "components": [
+                                {
+                                  "content": "TEMPLATE\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            },
+                            {
+                              "classes": [
+                                "menu-item"
+                              ],
+                              "components": [
+                                {
+                                  "content": "WEB\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            }
+                          ],
+                          "tagName": "nav"
+                        },
+                        {
+                          "classes": [
+                            "clearfix"
+                          ],
+                          "components": [
+                            {
+                              "content": "\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "lead-title"
+                          ],
+                          "components": [
+                            {
+                              "content": "Build your templates without coding\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "attributes": {
+                            "id": "ihgb3s"
+                          },
+                          "classes": [
+                            {
+                              "name": "gjs-row",
+                              "private": 1
+                            }
+                          ],
+                          "components": [
+                            {
+                              "content": "\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "sub-lead-title"
+                          ],
+                          "components": [
+                            {
+                              "content": "All text blocks could be edited easily with double clicking on it. You can create new text blocks with the command from the left panel\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "lead-btn"
+                          ],
+                          "components": [
+                            {
+                              "content": "Hover me\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ],
+                  "tagName": "header"
+                },
+                {
+                  "classes": [
+                    "flex-sect"
+                  ],
+                  "components": [
+                    {
+                      "classes": [
+                        "container-width"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "flex-title"
+                          ],
+                          "components": [
+                            {
+                              "content": "Flex is the new black\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "flex-desc"
+                          ],
+                          "components": [
+                            {
+                              "content": "With flexbox system you're able to build complex layouts easily and with free responsivity\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "cards"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "card"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "card-header"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "card-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "card-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Title one\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-sub-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subtitle one\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "card"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "card-header",
+                                    "ch2"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "card-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "card-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Title two\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-sub-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subtitle two\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "card"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "card-header",
+                                    "ch3"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "card-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "card-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Title three\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-sub-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subtitle three\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "card"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "card-header",
+                                    "ch4"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "card-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "card-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Title four\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-sub-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subtitle four\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "card"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "card-header",
+                                    "ch5"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "card-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "card-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Title five\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-sub-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subtitle five\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "card"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "card-header",
+                                    "ch6"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "card-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "card-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Title six\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-sub-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subtitle six\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "card-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "tagName": "section"
+                },
+                {
+                  "attributes": {
+                    "id": "it6g2"
+                  },
+                  "classes": [
+                    "am-sect"
+                  ],
+                  "components": [
+                    {
+                      "classes": [
+                        "container-width"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "am-container"
+                          ],
+                          "components": [
+                            {
+                              "attributes": {
+                                "src": "./img/phone-app.png"
+                              },
+                              "classes": [
+                                "img-phone"
+                              ],
+                              "resizable": {
+                                "ratioDefault": 1
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "classes": [
+                                "am-content"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "am-pre"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "ASSET MANAGER\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "am-title"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "Manage your images with Asset Manager\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "am-desc"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "You can create image blocks with the command from the left panel and edit them with double click\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "classes": [
+                                    "am-post"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "Image uploading is not allowed in this demo\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "tagName": "section"
+                },
+                {
+                  "classes": [
+                    "blk-sect"
+                  ],
+                  "components": [
+                    {
+                      "classes": [
+                        "container-width"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "blk-title"
+                          ],
+                          "components": [
+                            {
+                              "content": "Blocks\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "blk-desc"
+                          ],
+                          "components": [
+                            {
+                              "content": "Each element in HTML page could be seen as a block. On the left panel you could find different kind of blocks that you can create, move and style\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "price-cards"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "price-card-cont"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "price-card"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "pc-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Starter\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Some random list\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Starter feature 1\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Starter feature 2\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Starter feature 3\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Starter feature 4\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-amount",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "$ 9,90/mo\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "price-card-cont"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "price-card",
+                                    "pc-regular"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "pc-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Regular\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Some random list\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Regular feature 1\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Regular feature 2\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Regular feature 3\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Regular feature 4\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-amount",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "$ 19,90/mo\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "price-card-cont"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "price-card",
+                                    "pc-enterprise"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "pc-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Enterprise\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Some random list\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Enterprise feature 1\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Enterprise feature 2\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Enterprise feature 3\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-feature"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "+ Enterprise feature 4\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "pc-amount",
+                                        "odd-feat"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "$ 29,90/mo\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "tagName": "section"
+                },
+                {
+                  "classes": [
+                    "bdg-sect"
+                  ],
+                  "components": [
+                    {
+                      "classes": [
+                        "container-width"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "bdg-title"
+                          ],
+                          "components": [
+                            {
+                              "content": "The team\n      ",
+                              "type": "textnode"
+                            }
+                          ],
+                          "tagName": "h1",
+                          "type": "text"
+                        },
+                        {
+                          "classes": [
+                            "badges"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "badge"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "badge-header"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "attributes": {
+                                    "src": "img/team1.jpg"
+                                  },
+                                  "classes": [
+                                    "badge-avatar"
+                                  ],
+                                  "resizable": {
+                                    "ratioDefault": 1
+                                  },
+                                  "type": "image"
+                                },
+                                {
+                                  "classes": [
+                                    "badge-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "badge-name"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Adam Smith\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-role"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "CEO\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ipsum dolor sit\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "classes": [
+                                    "badge-foot"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "f",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "t",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "ln",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "badge"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "badge-header"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "attributes": {
+                                    "src": "img/team2.jpg"
+                                  },
+                                  "classes": [
+                                    "badge-avatar"
+                                  ],
+                                  "resizable": {
+                                    "ratioDefault": 1
+                                  },
+                                  "type": "image"
+                                },
+                                {
+                                  "classes": [
+                                    "badge-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "badge-name"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "John Black\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-role"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Software Engineer\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ipsum dolor sit\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "classes": [
+                                    "badge-foot"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "f",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "t",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "ln",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "badge"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "badge-header"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                },
+                                {
+                                  "attributes": {
+                                    "src": "img/team3.jpg"
+                                  },
+                                  "classes": [
+                                    "badge-avatar"
+                                  ],
+                                  "resizable": {
+                                    "ratioDefault": 1
+                                  },
+                                  "type": "image"
+                                },
+                                {
+                                  "classes": [
+                                    "badge-body"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "badge-name"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Jessica White\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-role"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Web Designer\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ipsum dolor sit\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "classes": [
+                                    "badge-foot"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "f",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "t",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "badge-link"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "ln",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "tagName": "span",
+                                      "type": "text"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "tagName": "section"
+                },
+                {
+                  "classes": [
+                    "footer-under"
+                  ],
+                  "components": [
+                    {
+                      "classes": [
+                        "container-width"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "footer-container"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "foot-lists"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "foot-list"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "foot-list-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "About us\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Contact\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Events\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Company\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Jobs\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Blog\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "classes": [
+                                    "foot-list"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "foot-list-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Services\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Education\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Partner\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Community\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Forum\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Download\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-list-item"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Upgrade\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "classes": [
+                                    "clearfix"
+                                  ],
+                                  "components": [
+                                    {
+                                      "content": "\n          ",
+                                      "type": "textnode"
+                                    }
+                                  ],
+                                  "type": "text"
+                                }
+                              ]
+                            },
+                            {
+                              "classes": [
+                                "form-sub"
+                              ],
+                              "components": [
+                                {
+                                  "classes": [
+                                    "foot-form-cont"
+                                  ],
+                                  "components": [
+                                    {
+                                      "classes": [
+                                        "foot-form-title"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subscribe\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "classes": [
+                                        "foot-form-desc"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Subscribe to our newsletter to receive exclusive offers and the latest news\n            ",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "type": "text"
+                                    },
+                                    {
+                                      "attributes": {
+                                        "name": "name",
+                                        "placeholder": "Name",
+                                        "type": "text"
+                                      },
+                                      "classes": [
+                                        "sub-input"
+                                      ],
+                                      "type": "input",
+                                      "void": true
+                                    },
+                                    {
+                                      "attributes": {
+                                        "name": "email",
+                                        "placeholder": "Email",
+                                        "type": "text"
+                                      },
+                                      "classes": [
+                                        "sub-input"
+                                      ],
+                                      "type": "input",
+                                      "void": true
+                                    },
+                                    {
+                                      "attributes": {
+                                        "type": "button"
+                                      },
+                                      "classes": [
+                                        "sub-btn"
+                                      ],
+                                      "components": [
+                                        {
+                                          "content": "Submit",
+                                          "type": "textnode"
+                                        }
+                                      ],
+                                      "text": "Submit",
+                                      "type": "button"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "classes": [
+                        "copyright"
+                      ],
+                      "components": [
+                        {
+                          "classes": [
+                            "container-width"
+                          ],
+                          "components": [
+                            {
+                              "classes": [
+                                "made-with"
+                              ],
+                              "components": [
+                                {
+                                  "content": "\n          made with GrapesJS\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            },
+                            {
+                              "classes": [
+                                "foot-social-btns"
+                              ],
+                              "components": [
+                                {
+                                  "content": "facebook twitter linkedin mail\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            },
+                            {
+                              "classes": [
+                                "clearfix"
+                              ],
+                              "components": [
+                                {
+                                  "content": "\n        ",
+                                  "type": "textnode"
+                                }
+                              ],
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "tagName": "footer"
+                }
+              ],
+              "stylable": [
+                "background",
+                "background-color",
+                "background-image",
+                "background-repeat",
+                "background-attachment",
+                "background-position",
+                "background-size"
+              ],
+              "type": "wrapper"
+            },
+            "id": "QPjKujkHrih5afuF"
+          }
+        ],
+        "id": "MtEglcsgDUdI00Ua"
+      }
+    ],
+    "styles": [
+      {
+        "selectors": [],
+        "selectorsAdd": "*",
+        "style": {
+          "box-sizing": "border-box"
+        }
+      },
+      {
+        "selectors": [],
+        "selectorsAdd": "body",
+        "style": {
+          "margin": "0"
+        }
+      },
+      {
+        "selectors": [
+          "clearfix"
+        ],
+        "style": {
+          "clear": "both"
+        }
+      },
+      {
+        "selectors": [
+          "header-banner"
+        ],
+        "style": {
+          "background-attachment": "scroll, scroll",
+          "background-image": "url(\"https://grapesjs.com/img/bg-gr-v.png\"), url(\"https://grapesjs.com/img/work-desk.jpg\")",
+          "background-position": "left top, center center",
+          "background-repeat": "repeat-y, no-repeat",
+          "background-size": "contain, cover",
+          "color": "#ffffff",
+          "font-family": "Helvetica, serif",
+          "font-weight": "100",
+          "padding-bottom": "100px",
+          "padding-top": "35px"
+        }
+      },
+      {
+        "selectors": [
+          "container-width"
+        ],
+        "style": {
+          "margin": "0 auto",
+          "max-width": "1150px",
+          "width": "90%"
+        }
+      },
+      {
+        "selectors": [
+          "logo-container"
+        ],
+        "style": {
+          "float": "left",
+          "width": "50%"
+        }
+      },
+      {
+        "selectors": [
+          "logo"
+        ],
+        "style": {
+          "background-color": "#fff",
+          "border-radius": "5px",
+          "color": "#4d114f",
+          "font-size": "23px",
+          "line-height": "30px",
+          "min-height": "30px",
+          "padding": "10px",
+          "text-align": "center",
+          "width": "130px"
+        }
+      },
+      {
+        "selectors": [
+          "menu"
+        ],
+        "style": {
+          "float": "right",
+          "width": "50%"
+        }
+      },
+      {
+        "selectors": [
+          "menu-item"
+        ],
+        "style": {
+          "color": "#eee",
+          "float": "right",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "min-height": "50px",
+          "padding": "10px",
+          "text-align": "center",
+          "width": "130px"
+        }
+      },
+      {
+        "selectors": [
+          "lead-title"
+        ],
+        "style": {
+          "font-size": "40px",
+          "margin": "150px 0 30px 0"
+        }
+      },
+      {
+        "selectors": [
+          "sub-lead-title"
+        ],
+        "style": {
+          "color": "#c6c6c6",
+          "line-height": "30px",
+          "margin-bottom": "30px",
+          "max-width": "650px"
+        }
+      },
+      {
+        "selectors": [
+          "lead-btn"
+        ],
+        "style": {
+          "background-color": "#d983a6",
+          "border-radius": "5px",
+          "cursor": "pointer",
+          "font-size": "20px",
+          "letter-spacing": "3px",
+          "line-height": "30px",
+          "margin-top": "15px",
+          "min-height": "30px",
+          "padding": "10px",
+          "text-align": "center",
+          "transition": "all 0.5s ease",
+          "width": "190px"
+        }
+      },
+      {
+        "selectors": [
+          "lead-btn"
+        ],
+        "state": "hover",
+        "style": {
+          "background-color": "#ffffff",
+          "color": "#4c114e"
+        }
+      },
+      {
+        "selectors": [
+          "lead-btn"
+        ],
+        "state": "active",
+        "style": {
+          "background-color": "#4d114f",
+          "color": "#fff"
+        }
+      },
+      {
+        "selectors": [
+          "flex-sect"
+        ],
+        "style": {
+          "background-color": "#fafafa",
+          "font-family": "Helvetica, serif",
+          "padding": "100px 0"
+        }
+      },
+      {
+        "selectors": [
+          "flex-title"
+        ],
+        "style": {
+          "color": "#555",
+          "font-size": "2em",
+          "font-weight": "700",
+          "margin-bottom": "15px",
+          "padding": "5px",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "flex-desc"
+        ],
+        "style": {
+          "color": "rgba(0, 0, 0, 0.5)",
+          "font-size": "1em",
+          "margin-bottom": "55px",
+          "padding": "5px",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "cards"
+        ],
+        "style": {
+          "display": "flex",
+          "flex-flow": "wrap",
+          "justify-content": "space-around",
+          "padding": "20px 0"
+        }
+      },
+      {
+        "selectors": [
+          "card"
+        ],
+        "style": {
+          "background-color": "white",
+          "border-radius": "2px",
+          "box-shadow": "0 1px 2px 0 rgba(0, 0, 0, 0.2)",
+          "font-weight": "100",
+          "height": "300px",
+          "margin-bottom": "30px",
+          "overflow": "hidden",
+          "transition": "all 0.5s ease",
+          "width": "300px"
+        }
+      },
+      {
+        "selectors": [
+          "card"
+        ],
+        "state": "hover",
+        "style": {
+          "box-shadow": "0 20px 30px 0 rgba(0, 0, 0, 0.2)",
+          "margin-top": "-5px"
+        }
+      },
+      {
+        "selectors": [
+          "card-header"
+        ],
+        "style": {
+          "background-image": "url(\"https://via.placeholder.com/350x250/78c5d6/fff\")",
+          "background-position": "center center",
+          "background-size": "cover",
+          "height": "155px"
+        }
+      },
+      {
+        "selectors": [
+          "card-header",
+          "ch2"
+        ],
+        "style": {
+          "background-image": "url(\"https://via.placeholder.com/350x250/459ba8/fff\")"
+        }
+      },
+      {
+        "selectors": [
+          "card-header",
+          "ch3"
+        ],
+        "style": {
+          "background-image": "url(\"https://via.placeholder.com/350x250/79c267/fff\")"
+        }
+      },
+      {
+        "selectors": [
+          "card-header",
+          "ch4"
+        ],
+        "style": {
+          "background-image": "url(\"https://via.placeholder.com/350x250/c5d647/fff\")"
+        }
+      },
+      {
+        "selectors": [
+          "card-header",
+          "ch5"
+        ],
+        "style": {
+          "background-image": "url(\"https://via.placeholder.com/350x250/f28c33/fff\")"
+        }
+      },
+      {
+        "selectors": [
+          "card-header",
+          "ch6"
+        ],
+        "style": {
+          "background-image": "url(\"https://via.placeholder.com/350x250/e868a2/fff\")"
+        }
+      },
+      {
+        "selectors": [
+          "card-body"
+        ],
+        "style": {
+          "color": "#555",
+          "padding": "15px 15px 5px 15px"
+        }
+      },
+      {
+        "selectors": [
+          "card-title"
+        ],
+        "style": {
+          "font-size": "1.4em",
+          "margin-bottom": "5px"
+        }
+      },
+      {
+        "selectors": [
+          "card-sub-title"
+        ],
+        "style": {
+          "color": "#b3b3b3",
+          "font-size": "1em",
+          "margin-bottom": "15px"
+        }
+      },
+      {
+        "selectors": [
+          "card-desc"
+        ],
+        "style": {
+          "font-size": "0.85rem",
+          "line-height": "17px"
+        }
+      },
+      {
+        "selectors": [
+          "am-sect"
+        ],
+        "style": {
+          "font-family": "Helvetica, serif",
+          "padding-bottom": "100px",
+          "padding-top": "100px"
+        }
+      },
+      {
+        "selectors": [
+          "img-phone"
+        ],
+        "style": {
+          "float": "left"
+        }
+      },
+      {
+        "selectors": [
+          "am-container"
+        ],
+        "style": {
+          "align-items": "center",
+          "display": "flex",
+          "flex-wrap": "wrap",
+          "justify-content": "space-around"
+        }
+      },
+      {
+        "selectors": [
+          "am-content"
+        ],
+        "style": {
+          "color": "#444",
+          "float": "left",
+          "font-weight": "100",
+          "margin-top": "50px",
+          "padding": "7px",
+          "width": "490px"
+        }
+      },
+      {
+        "selectors": [
+          "am-pre"
+        ],
+        "style": {
+          "color": "#b1b1b1",
+          "font-size": "15px",
+          "padding": "7px"
+        }
+      },
+      {
+        "selectors": [
+          "am-title"
+        ],
+        "style": {
+          "font-size": "25px",
+          "font-weight": "400",
+          "padding": "7px"
+        }
+      },
+      {
+        "selectors": [
+          "am-desc"
+        ],
+        "style": {
+          "font-size": "17px",
+          "line-height": "25px",
+          "padding": "7px"
+        }
+      },
+      {
+        "selectors": [
+          "am-post"
+        ],
+        "style": {
+          "font-size": "13px",
+          "line-height": "25px",
+          "padding": "7px"
+        }
+      },
+      {
+        "selectors": [
+          "blk-sect"
+        ],
+        "style": {
+          "background-color": "#222222",
+          "font-family": "Helvetica, serif",
+          "padding-bottom": "100px",
+          "padding-top": "100px"
+        }
+      },
+      {
+        "selectors": [
+          "blk-title"
+        ],
+        "style": {
+          "color": "#fff",
+          "font-size": "25px",
+          "margin-bottom": "15px",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "blk-desc"
+        ],
+        "style": {
+          "color": "#b1b1b1",
+          "font-size": "15px",
+          "font-weight": "100",
+          "margin": "0 auto",
+          "max-width": "700px",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "price-cards"
+        ],
+        "style": {
+          "align-items": "center",
+          "display": "flex",
+          "flex-wrap": "wrap",
+          "justify-content": "space-around",
+          "margin-top": "70px"
+        }
+      },
+      {
+        "selectors": [
+          "price-card-cont"
+        ],
+        "style": {
+          "float": "left",
+          "padding": "7px",
+          "width": "300px"
+        }
+      },
+      {
+        "selectors": [
+          "price-card"
+        ],
+        "style": {
+          "background-color": "#d983a6",
+          "border-radius": "5px",
+          "color": "#fff",
+          "font-weight": "100",
+          "margin": "0 auto",
+          "min-height": "350px",
+          "width": "90%"
+        }
+      },
+      {
+        "selectors": [
+          "pc-title"
+        ],
+        "style": {
+          "background-color": "rgba(0, 0, 0, 0.1)",
+          "font-size": "25px",
+          "font-weight": "100",
+          "letter-spacing": "3px",
+          "padding": "20px",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "pc-desc"
+        ],
+        "style": {
+          "padding": "75px 0",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "pc-feature"
+        ],
+        "style": {
+          "background-color": "rgba(0, 0, 0, 0.1)",
+          "color": "rgba(255,255,255,0.5)",
+          "font-size": "15px",
+          "letter-spacing": "2px",
+          "padding": "10px 20px"
+        }
+      },
+      {
+        "selectors": [
+          "pc-feature"
+        ],
+        "state": "nth-of-type(2n)",
+        "style": {
+          "background-color": "transparent"
+        }
+      },
+      {
+        "selectors": [
+          "pc-amount"
+        ],
+        "style": {
+          "background-color": "rgba(0, 0, 0, 0.1)",
+          "font-size": "35px",
+          "padding": "35px 0",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "pc-regular"
+        ],
+        "style": {
+          "background-color": "#da78a0"
+        }
+      },
+      {
+        "selectors": [
+          "pc-enterprise"
+        ],
+        "style": {
+          "background-color": "#d66a96"
+        }
+      },
+      {
+        "selectors": [
+          "footer-under"
+        ],
+        "style": {
+          "background-color": "#312833",
+          "color": "#eee",
+          "font-family": "Helvetica,serif",
+          "font-weight": "100",
+          "min-height": "500px",
+          "padding-bottom": "100px",
+          "padding-top": "100px",
+          "position": "relative"
+        }
+      },
+      {
+        "selectors": [
+          "copyright"
+        ],
+        "style": {
+          "background-color": "rgba(0, 0, 0, 0.15)",
+          "bottom": "0",
+          "color": "rgba(238, 238, 238, 0.5)",
+          "font-size": "0.75em",
+          "padding": "1em 0",
+          "position": "absolute",
+          "width": "100%"
+        }
+      },
+      {
+        "selectors": [
+          "made-with"
+        ],
+        "style": {
+          "float": "left",
+          "padding": "5px 0",
+          "width": "50%"
+        }
+      },
+      {
+        "selectors": [
+          "foot-social-btns"
+        ],
+        "style": {
+          "display": "none",
+          "float": "right",
+          "padding": "5px 0",
+          "text-align": "right",
+          "width": "50%"
+        }
+      },
+      {
+        "selectors": [
+          "footer-container"
+        ],
+        "style": {
+          "align-items": "stretch",
+          "display": "flex",
+          "flex-wrap": "wrap",
+          "justify-content": "space-around"
+        }
+      },
+      {
+        "selectors": [
+          "foot-list"
+        ],
+        "style": {
+          "float": "left",
+          "width": "200px"
+        }
+      },
+      {
+        "selectors": [
+          "foot-list-title"
+        ],
+        "style": {
+          "font-weight": "400",
+          "margin-bottom": "10px",
+          "padding": "0.5em 0"
+        }
+      },
+      {
+        "selectors": [
+          "foot-list-item"
+        ],
+        "style": {
+          "color": "rgba(238, 238, 238, 0.8)",
+          "font-size": "0.8em",
+          "padding": "0.5em 0"
+        }
+      },
+      {
+        "selectors": [
+          "foot-list-item"
+        ],
+        "state": "hover",
+        "style": {
+          "color": "rgba(238, 238, 238, 1)"
+        }
+      },
+      {
+        "selectors": [
+          "foot-form-cont"
+        ],
+        "style": {
+          "float": "right",
+          "width": "300px"
+        }
+      },
+      {
+        "selectors": [
+          "foot-form-title"
+        ],
+        "style": {
+          "color": "rgba(255,255,255,0.75)",
+          "font-size": "2em",
+          "font-weight": "400",
+          "margin-bottom": "10px",
+          "padding": "0.5em 0",
+          "text-align": "right"
+        }
+      },
+      {
+        "selectors": [
+          "foot-form-desc"
+        ],
+        "style": {
+          "color": "rgba(255,255,255,0.55)",
+          "font-size": "0.8em",
+          "line-height": "20px",
+          "margin-bottom": "15px",
+          "text-align": "right"
+        }
+      },
+      {
+        "selectors": [
+          "sub-input"
+        ],
+        "style": {
+          "background-color": "#554c57",
+          "border": "none",
+          "border-radius": "2px",
+          "color": "#fff",
+          "margin-bottom": "15px",
+          "padding": "7px 10px",
+          "width": "100%"
+        }
+      },
+      {
+        "selectors": [
+          "sub-btn"
+        ],
+        "style": {
+          "background-color": "#785580",
+          "border": "none",
+          "border-radius": "2px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "font-size": "1em",
+          "margin": "15px 0",
+          "padding": "7px 10px",
+          "width": "100%"
+        }
+      },
+      {
+        "selectors": [
+          "sub-btn"
+        ],
+        "state": "hover",
+        "style": {
+          "background-color": "#91699a"
+        }
+      },
+      {
+        "selectors": [
+          "sub-btn"
+        ],
+        "state": "active",
+        "style": {
+          "background-color": "#573f5c"
+        }
+      },
+      {
+        "selectors": [
+          "bdg-sect"
+        ],
+        "style": {
+          "background-color": "#fafafa",
+          "font-family": "Helvetica, serif",
+          "padding-bottom": "100px",
+          "padding-top": "100px"
+        }
+      },
+      {
+        "selectors": [
+          "bdg-title"
+        ],
+        "style": {
+          "color": "#555555",
+          "font-size": "2em",
+          "margin-bottom": "55px",
+          "text-align": "center"
+        }
+      },
+      {
+        "selectors": [
+          "badges"
+        ],
+        "style": {
+          "align-items": "flex-start",
+          "display": "flex",
+          "flex-wrap": "wrap",
+          "justify-content": "space-around",
+          "padding": "20px"
+        }
+      },
+      {
+        "selectors": [
+          "badge"
+        ],
+        "style": {
+          "background-color": "white",
+          "border-radius": "3px",
+          "box-shadow": "0 2px 2px 0 rgba(0, 0, 0, 0.2)",
+          "font-family": "Helvetica, serif",
+          "font-weight": "100",
+          "margin-bottom": "30px",
+          "overflow": "hidden",
+          "text-align": "center",
+          "width": "290px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-header"
+        ],
+        "style": {
+          "background-attachment": "scroll, fixed",
+          "background-image": "url(\"https://grapesjs.com/img/bg-gr-v.png\"), url(\"https://grapesjs.com/img/work-desk.jpg\")",
+          "background-position": "left top, center center",
+          "height": "115px",
+          "overflow": "hidden"
+        }
+      },
+      {
+        "selectors": [
+          "badge-name"
+        ],
+        "style": {
+          "font-size": "1.4em",
+          "margin-bottom": "5px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-role"
+        ],
+        "style": {
+          "color": "#777",
+          "font-size": "1em",
+          "margin-bottom": "25px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-desc"
+        ],
+        "style": {
+          "font-size": "0.85rem",
+          "line-height": "20px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-avatar"
+        ],
+        "style": {
+          "border": "5px solid #fff",
+          "border-radius": "100%",
+          "box-shadow": "0 1px 1px 0 rgba(0, 0, 0, 0.2)",
+          "height": "100px",
+          "margin-top": "-75px",
+          "position": "relative",
+          "width": "100px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-body"
+        ],
+        "style": {
+          "margin": "35px 10px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-foot"
+        ],
+        "style": {
+          "background-color": "#a290a5",
+          "color": "#fff",
+          "display": "flex",
+          "justify-content": "center",
+          "padding-bottom": "13px",
+          "padding-top": "13px"
+        }
+      },
+      {
+        "selectors": [
+          "badge-link"
+        ],
+        "style": {
+          "background-color": "#fff",
+          "border-radius": "100%",
+          "color": "#a290a5",
+          "display": "block",
+          "font-weight": "700",
+          "height": "35px",
+          "line-height": "35px",
+          "margin": "0 10px",
+          "width": "35px"
+        }
+      },
+      {
+        "selectors": [
+          {
+            "name": "gjs-row",
+            "private": 1
+          }
+        ],
+        "style": {
+          "align-items": "stretch",
+          "display": "flex",
+          "flex-wrap": "nowrap",
+          "justify-content": "flex-start",
+          "padding": "10px"
+        }
+      },
+      {
+        "atRuleType": "media",
+        "mediaText": "(max-width: 768px)",
+        "selectors": [
+          "foot-form-cont"
+        ],
+        "style": {
+          "width": "400px"
+        }
+      },
+      {
+        "atRuleType": "media",
+        "mediaText": "(max-width: 768px)",
+        "selectors": [
+          "foot-form-title"
+        ],
+        "style": {
+          "width": "autopx"
+        }
+      },
+      {
+        "atRuleType": "media",
+        "mediaText": "(max-width: 768px)",
+        "selectors": [
+          {
+            "name": "gjs-row",
+            "private": 1
+          }
+        ],
+        "style": {
+          "flex-wrap": "wrap"
+        }
+      },
+      {
+        "atRuleType": "media",
+        "mediaText": "(max-width: 480px)",
+        "selectors": [
+          "foot-lists"
+        ],
+        "style": {
+          "display": "none"
+        }
+      },
+      {
+        "selectors": [
+          {
+            "name": "gjs-cell",
+            "private": 1
+          }
+        ],
+        "style": {
+          "flex-basis": "100%",
+          "flex-grow": "1",
+          "min-height": "75px"
+        }
+      }
+    ]
+  }
