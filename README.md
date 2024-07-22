@@ -48,6 +48,19 @@ value := facades.Cache().Get("goravel", "default")
 err := facades.Queue().Job(&jobs.Test{}, []queue.Arg{}).Dispatch()
 ```
 
+## How to Install Goravel
+```
+# Install the latest version of the goravel installer
+go install github.com/goravel/installer@latest
+
+# You can rename the executable file
+# Linux
+mv "$GOBIN/installer" "$GOBIN/goravel"
+
+# Init a project
+goravel new "your-project-name"
+```
+
 ## How to use
 
 ```
